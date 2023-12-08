@@ -13,4 +13,4 @@ function Heroi(nome, xp){
 
   console.log(`O Heroi ${nome}, está no nível ${level}.`)
 }
-Heroi('Daniel', 8001);
+Heroi('Felipao', 8001);
